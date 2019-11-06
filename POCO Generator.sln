@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCO Generator", "POCO Generator\POCO Generator.csproj", "{252E3A81-7F4F-4080-92B2-A3FA0CFB3D03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{252E3A81-7F4F-4080-92B2-A3FA0CFB3D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252E3A81-7F4F-4080-92B2-A3FA0CFB3D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252E3A81-7F4F-4080-92B2-A3FA0CFB3D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252E3A81-7F4F-4080-92B2-A3FA0CFB3D03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC9E66FF-7099-4C2B-BD1F-D211CB05EF29}
+	EndGlobalSection
+EndGlobal
